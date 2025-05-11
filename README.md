@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-maintained-blue)]()
+[![Status](https://img.shields.io/badge/status-archived-yellow)]()
 [![Version](https://img.shields.io/badge/version-1.1-green)](https://github.com/realandrinoff/telegram-currency-converter-bot/releases/)
 
 
